@@ -1,6 +1,7 @@
 # 👀 사이트 레이아웃 클론
 
 래퍼런스 사이트 : https://hkd-microbiome.com/ko/
+클론 사이트 : https://kse-seong-eun.github.io/HKDmicrobiome__CloneCoding/
 
 ## 작업 사항
 
